@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "235184681214",
+    "project_id": "monstarlabph-equipments",
+    "storage_bucket": "monstarlabph-equipments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235184681214:android:5449896c654bf7714ff5af",
+        "android_client_info": {
+          "package_name": "com.example.mlph_equipments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235184681214-fkd2chbofnffvuub6f4grm21cr48h0cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnXmPMlWnIM1t2_vKd8LtCfpo1_2BMCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235184681214-fkd2chbofnffvuub6f4grm21cr48h0cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235184681214:android:d46aa21dc7cb8bc34ff5af",
+        "android_client_info": {
+          "package_name": "com.example.mlph_equipments2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235184681214-fkd2chbofnffvuub6f4grm21cr48h0cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnXmPMlWnIM1t2_vKd8LtCfpo1_2BMCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235184681214-fkd2chbofnffvuub6f4grm21cr48h0cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
